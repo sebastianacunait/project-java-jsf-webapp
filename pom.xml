@@ -27,7 +27,7 @@
     </dependency>
 </dependencies>
   
-  <!-- Build Maven WAR -->
+<!-- Build Maven WAR -->
 <build>
 <finalName>ROOT</finalName>
     <plugins>
